@@ -1,4 +1,4 @@
-<h1 align="center" text_color: blue;>Guilherme Vidal</h1>
+<h1 align="center">Guilherme Vidal</h1>
 
 <p align="justify">Com uma formação sólida em Telemática e experiência prática diversificada, construí uma carreira versátil em tecnologia e design. Comecei como aprendiz na indústria gráfica, desenvolvendo habilidades em design e operações de impressão. Concluí minha graduação em Telemática em 2023, focada no desenvolvimento de serviços de informática e soluções em redes de telecomunicações. Também desempenhei papéis como Arte Finalista, Designer Gráfico e Analista de Suporte de TI, lidando com criação visual e resolução de problemas de hardware, software e infraestrutura.</p>
 
@@ -15,7 +15,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guividaldenegreiros&show_icons=true&theme=algolia)](https://github.com/guividaldenegreiros/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guividaldenegreiros&show_icons=true&theme=algolia)](https://github.com/guividaldenegreiros/github-readme-stats)
 
-<h1 align="center">Minhas redes sociais</h1>
+<h1 align="center">Contatos</h1>
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gui.vidaldenegreiros/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/guilherme-vidal-de-negreiros-lima-42b218204/)
