@@ -4,7 +4,7 @@
 
 <p align="justify">Além do trabalho prático, busquei certificações, como Huawei HCIA-Routing & Switching e Cisco CCNA Routing and Switching, validando minhas habilidades em configuração e manutenção de redes. Também Contribuí em atividades acadêmicas e voluntárias, destacando meu compromisso com a aprendizagem contínua e a disseminação do conhecimento.</p>
 
-<p align="justify">Essa jornada diversificada me deu habilidades técnicas e criativas, preparando-me para desafios complexos e contribuições em ambientes interdisciplinares. Estou motivado a crescer profissionalmente, enfrentando novos desafios com paixão, especialmente no no desenvolvimento em programação.</p>
+<p align="justify">Essa jornada diversificada me deu habilidades técnicas e criativas, preparando-me para desafios complexos e contribuições em ambientes interdisciplinares. Estou motivado a crescer profissionalmente, enfrentando novos desafios com paixão, especialmente no meu desenvolvimento em programação.</p>
 
 <h1 align="center">Skills</h1>
 
