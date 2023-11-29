@@ -6,7 +6,7 @@
 
 <p align="justify">Essa jornada diversificada me deu habilidades técnicas e criativas, preparando-me para desafios complexos e contribuições em ambientes interdisciplinares. Estou motivado a crescer profissionalmente, enfrentando novos desafios com paixão, especialmente no meu desenvolvimento em programação.</p>
 
-<h1 align="center">Skills</h1>
+<h1 align="center">Conhecimento</h1>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
