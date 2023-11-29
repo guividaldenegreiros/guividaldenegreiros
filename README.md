@@ -17,7 +17,7 @@
 
 <h1 align="center">Contatos</h1>
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gui.vidaldenegreiros/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:gui.vidaldenegreiros@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/guilherme-vidal-de-negreiros-lima-42b218204/)
 
 <h1 align="center">Repositorios importantes</h1>
