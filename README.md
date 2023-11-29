@@ -1,4 +1,4 @@
-<h1 align="center">Guilherme Vidal</h1>
+<h1 align="center">Bem vindos!</h1>
 
 <p align="justify">Com uma formação sólida em Telemática e experiência prática diversificada, construí uma carreira versátil em tecnologia e design. Comecei como aprendiz na indústria gráfica, desenvolvendo habilidades em design e operações de impressão. Concluí minha graduação em Telemática em 2023, focada no desenvolvimento de serviços de informática e soluções em redes de telecomunicações. Também desempenhei papéis como Arte Finalista, Designer Gráfico e Analista de Suporte de TI, lidando com criação visual e resolução de problemas de hardware, software e infraestrutura.</p>
 
@@ -8,11 +8,20 @@
 
 <h1 align="center">Skills</h1>
 
+<h2>Development skills</h2>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guividaldenegreiros&show_icons=true&theme=algolia)](https://github.com/guividaldenegreiros/github-readme-stats)
+<h2>Design skills</h2>
+
+![ADOBE ILLUSTRATOR](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![ADOBE INDESIGN](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
+![ADOBE PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+
+
+[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guividaldenegreiros&show_icons=true&theme=algolia)](https://github.com/guividaldenegreiros/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guividaldenegreiros&show_icons=true&theme=algolia)](https://github.com/guividaldenegreiros/github-readme-stats)
 
 <h1 align="center">Contatos</h1>
